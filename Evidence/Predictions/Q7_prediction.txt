@@ -1,0 +1,1 @@
+Before running, predict: both implementations process 2,000,000 items and retain 10; oldest retained = 1,999,990; newest retained = 1,999,999. Predict which design performs fewer data movements and why.

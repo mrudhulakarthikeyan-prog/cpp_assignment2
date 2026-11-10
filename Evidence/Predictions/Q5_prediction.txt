@@ -1,0 +1,2 @@
+Predict the exact output of the Token program from the assignment before running it: 103 105 106 6
+Explain the three array constructors plus the extra object's constructor.

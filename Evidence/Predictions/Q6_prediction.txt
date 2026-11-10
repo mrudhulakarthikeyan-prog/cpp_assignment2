@@ -1,0 +1,1 @@
+Predict the two required output values for departure(9,45) and arrival(13,10): 205 false. Add predictions for the noon and equal-time tests before execution.
